@@ -1,7 +1,6 @@
 import random
 ran=random.randrange(1000,9999)
 while(True):
-    print(ran)
     b=''
     c='1'
     num=input("enter a guess : ")
